@@ -26,6 +26,12 @@ Tracks top crypto prices and sends real-time alerts using CoinGecko API.
 ### 📍 [Data Pipeline Solutions](https://github.com/Lewingtonnn/Data-Pipline-Solutions)<br/>  
 End-to-end automation pipeline using Python, Tenacity, Scheduling & Logging.<br/>
 
+### 📍 [Sneaker Deal Sniper Bot](https://github.com/Lewingtonnn/Discord-ETL-data-pipeline)<br/>
+A real-time Discord bot that scrapes eBay sneaker listings, scores deals, filters junk, and posts rich embed alerts to Discord. Built as a full ETL pipeline for resellers and private communities.
+
+### 📍 [Playwright Stealth Scraper](https://github.com/Lewingtonnn/playwright_stealth_mode)  
+Headless browser scraper built with Playwright Stealth Mode to bypass bot detection. Enriches property owner data, scores match confidence, and exports to CSV + JSON. Ideal for lead gen, real estate CRMs, and skip tracing workflows.
+
 ---
 
 ## 🛒 Hire Me
