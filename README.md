@@ -9,9 +9,9 @@
 ---
 ## 🚀 What I Do<br/>
 - 🕸️ Web Scraping & Data Collection <br/> 
-- 🤖 Telegram Bots & Email Automation <br/>
+- 🤖 Telegram/Twitter(X)/Discord Bots & Email Automation <br/>
 - 🔌 API Integrations (REST, JSON, real-time data)<br/>  
-- 🛠️ Tools for Real Estate, Crypto, Jobs & More <br/>
+- 🛠️ Tools for Real Estate, Crypto, Marketplaces & More <br/>
 
 ---
 
