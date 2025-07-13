@@ -18,7 +18,7 @@
 ## 🔥 Highlight Projects<br/>
 
 ### 📍 [Real Estate Alert Bot](https://github.com/Lewingtonnn/real-estate-scrapper) <br/> 
-Scrapes Craigslist listings and sends property alerts to Telegram & Gmail.<br/>
+Scrapes Craigslist listings and sends property alerts to Telegram & Gmail as well as generating daily html reports.<br/>
 
 ### 📍 [Crypto Price Bot](https://github.com/Lewingtonnn/crypto-price-bot)<br/>  
 Tracks top crypto prices and sends real-time alerts using CoinGecko API.
