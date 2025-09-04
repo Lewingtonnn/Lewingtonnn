@@ -1,11 +1,6 @@
-<p align="center">
-  <img src="./assets/intellicore-banner.svg" alt="Intellicore Data Lab — Neural Glow Banner" />
-</p>
-
-# ⚡ Lewis Githua  
-Founder — [Intellicore Data Lab](https://intellicore.vercel.app)
-
-*Turning raw streams into intelligence that powers decisions.*
+# ⚡ Lewis Githua 
+## Founder — [Intellicore Data Lab](https://intellicore-data-labs.vercel.app)  
+*"Turning raw streams into intelligence that powers decisions."*  
 
 ---
 
@@ -13,7 +8,9 @@ Founder — [Intellicore Data Lab](https://intellicore.vercel.app)
 - Founder of **Intellicore Data Lab** — a premium R&D lab for **data engineering & AI pipelines**.  
 - Architect behind the **Crypto Intelligence Pipeline** — a production-grade system fusing **market, on-chain, and sentiment data**.  
 - Building at the edge of **real-time data, MLOps, and intelligent automation**.  
-- Not “learning to code.” Not “building toy apps.” → **Designing scalable, enterprise systems**.  
+- **Designing scalable, enterprise systems**.
+
+  *"💡 Data is only as valuable as the intelligence it creates."*
 
 ---
 
@@ -46,6 +43,9 @@ Through **Intellicore Data Lab**, I craft pipelines and platforms that don’t j
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?logo=postgresql&logoColor=white)
+![AWS SQS DLQ](https://img.shields.io/badge/-AWS%20SQS%20DLQ-FF9900?logo=amazonaws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+
 
 ---
 
@@ -54,7 +54,11 @@ Through **Intellicore Data Lab**, I craft pipelines and platforms that don’t j
 *Streaming architecture that unifies crypto data → built for scale & monitoring.*  
 
 🔹 [**Intellicore Website**](https://github.com/Lewingtonnn/intellicore-website)  
+*The public face of the lab → sleek, premium, interactive (Next.js, Tailwind, Framer Motion).* 
+
+🔹 [**Property Intelligence Pipeline**](https://github.com/Lewingtonnn/Property-Intelligence-Pipeline)  
 *The public face of the lab → sleek, premium, interactive (Next.js, Tailwind, Framer Motion).*  
+
 
 ---
 
@@ -70,8 +74,8 @@ Beyond code, I share my approach to **data, systems, and engineering craft**:
 ---
 
 ## 🌍 Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewis-githua)  
-📧 lewis@email.com  
+### [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewis-githua)  
+### 📧 lewis.nganga@email.com  
 
 ---
 *"A lab, not a résumé. A builder, not a dabbler. Systems that matter."*
