@@ -64,7 +64,7 @@ Through **Intellicore Data Lab**, I craft pipelines and platforms that don’t j
 
 ## ✍️ Insights
 Beyond code, I share my approach to **data, systems, and engineering craft**:  
-👉 [Read my latest insights](https://intellicore.vercel.app/insights)  
+👉 [Read my latest insights](https://intellicore-data-labs.vercel.app/insights)  
 
 ---
 
