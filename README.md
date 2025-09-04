@@ -1,7 +1,11 @@
-# ⚡ Lewis Githua  
-Founder — [Intellicore Data Lab](https://intellicore.vercel.app)  
+<p align="center">
+  <img src="./assets/intellicore-banner.svg" alt="Intellicore Data Lab — Neural Glow Banner" />
+</p>
 
-*"Turning raw streams into intelligence that powers decisions."*  
+# ⚡ Lewis Githua  
+Founder — [Intellicore Data Lab](https://intellicore.vercel.app)
+
+*Turning raw streams into intelligence that powers decisions.*
 
 ---
 
