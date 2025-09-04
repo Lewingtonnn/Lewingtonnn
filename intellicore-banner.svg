@@ -1,0 +1,113 @@
+<!-- File: assets/intellicore-banner.svg -->
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Intellicore Data Lab — Neural Glow Banner</title>
+  <desc id="desc">Animated neural network with pulsing nodes and flowing data packets, in cyan/magenta gradient on deep blue.</desc>
+
+  <!-- Background -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050b1d"/>
+      <stop offset="100%" stop-color="#071025"/>
+    </linearGradient>
+
+    <!-- Signature glow -->
+    <filter id="glow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Cyan/Magenta gradient that subtly shifts -->
+    <linearGradient id="pulseGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop id="g1" offset="0%" stop-color="#00f5ff"/>
+      <stop id="g2" offset="100%" stop-color="#ff1cf7"/>
+      <animate xlink:href="#g1" attributeName="stop-color" values="#00f5ff;#7cf3ff;#00f5ff" dur="8s" repeatCount="indefinite"/>
+      <animate xlink:href="#g2" attributeName="stop-color" values="#ff1cf7;#ff86f7;#ff1cf7" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Paths for data packets to travel -->
+    <path id="p1" d="M 80,260 C 260,220 380,120 560,160 C 740,200 880,120 1080,160" fill="none" stroke="none"/>
+    <path id="p2" d="M 60,120 C 240,160 420,60 640,100 C 820,135 980,80 1140,120" fill="none" stroke="none"/>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bgGrad)"/>
+
+  <!-- Soft vignette -->
+  <rect width="1200" height="320" fill="none" stroke="rgba(0,0,0,0.4)" stroke-width="20"/>
+
+  <!-- Network edges -->
+  <g filter="url(#glow)" stroke="url(#pulseGrad)" stroke-opacity="0.6" stroke-width="2">
+    <!-- Subtle angled grid/network -->
+    <path d="M100,80 L260,100 L420,70 L580,110 L740,90 L900,120 L1060,100" fill="none"/>
+    <path d="M140,180 L300,140 L460,190 L620,150 L780,200 L940,160 L1100,190" fill="none"/>
+    <path d="M120,260 L300,220 L460,260 L640,230 L820,260 L1000,240 L1140,260" fill="none"/>
+    <path d="M180,60 L200,240" />
+    <path d="M360,80 L380,260" />
+    <path d="M540,60 L560,240" />
+    <path d="M720,80 L740,260" />
+    <path d="M900,60 L920,240" />
+  </g>
+
+  <!-- Pulsing nodes -->
+  <g>
+    <!-- function to draw a pulsing node -->
+    <g transform="translate(200,240)">
+      <circle r="3" fill="#00f5ff" filter="url(#glow)">
+        <animate attributeName="r" values="3;5;3" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g transform="translate(560,160)">
+      <circle r="3" fill="#ff1cf7" filter="url(#glow)">
+        <animate attributeName="r" values="3;5;3" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g transform="translate(740,200)">
+      <circle r="3" fill="#00f5ff" filter="url(#glow)">
+        <animate attributeName="r" values="3;5;3" dur="2.0s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g transform="translate(940,160)">
+      <circle r="3" fill="#ff1cf7" filter="url(#glow)">
+        <animate attributeName="r" values="3;5;3" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g transform="translate(420,70)">
+      <circle r="3" fill="#00f5ff" filter="url(#glow)">
+        <animate attributeName="r" values="3;5;3" dur="2.8s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- Flowing data packets along paths -->
+  <g fill="#c8ff1c" filter="url(#glow)">
+    <circle r="3">
+      <animateMotion dur="7s" repeatCount="indefinite" rotate="auto">
+        <mpath xlink:href="#p1"/>
+      </animateMotion>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#00f5ff">
+      <animateMotion dur="6s" begin="1.2s" repeatCount="indefinite" rotate="auto">
+        <mpath xlink:href="#p2"/>
+      </animateMotion>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#ff1cf7">
+      <animateMotion dur="8s" begin="0.8s" repeatCount="indefinite" rotate="auto">
+        <mpath xlink:href="#p1"/>
+      </animateMotion>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Title block -->
+  <g font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial" text-rendering="geometricPrecision">
+    <text x="60" y="140" font-size="42" fill="#e6eef7" style="letter-spacing:0.5px;">Intellicore Data Lab</text>
+    <text x="60" y="174" font-size="18" fill="#a7c0d9">End-to-End Data Engineering &amp; AI Pipelines</text>
+
+    <!-- Accent underline -->
+    <rect x="60" y="186" width="380" height="3" fill="url(#pulseGrad)" filter="url(#glow)"/>
+  </g>
+</svg>
