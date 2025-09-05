@@ -75,7 +75,7 @@ Beyond code, I share my approach to **data, systems, and engineering craft**:
 
 ## 🌍 Connect
 ### [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewis-githua)  
-### 📧 lewis.nganga@email.com  
+### 📧 l3wis.nganga@gmail.com  
 
 ---
 *"A lab, not a résumé. A builder, not a dabbler. Systems that matter."*
