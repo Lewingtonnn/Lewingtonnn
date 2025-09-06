@@ -1,11 +1,11 @@
 # ⚡ Lewis Githua 
-## Founder — [Intellicore Data Lab](https://intellicore-data-labs.vercel.app)  
+## Founder — [Fluxvyn](https://intellicore-data-labs.vercel.app)  
 *"Turning raw streams into intelligence that powers decisions."*  
 
 ---
 
 ## 🏎️ TL;DR (if you only skim one section)
-- Founder of **Intellicore Data Lab** — a premium R&D lab for **data engineering & AI pipelines**.  
+- Founder of **** — a premium R&D lab for **data engineering & AI pipelines**.  
 - Architect behind the **Crypto Intelligence Pipeline** — a production-grade system fusing **market, on-chain, and sentiment data**.  
 - Building at the edge of **real-time data, MLOps, and intelligent automation**.  
 - **Designing scalable, enterprise systems**.
@@ -16,7 +16,7 @@
 
 ## 🪂 About Me
 I’m Lewis — a data engineer and systems builder obsessed with making data *work harder*.  
-Through **Intellicore Data Lab**, I craft pipelines and platforms that don’t just *run* — they **scale, self-heal, and deliver insight**.  
+Through **Fluxvyn**, I craft pipelines and platforms that don’t just *run* — they **scale, self-heal, and deliver insight**.  
 
 - I think in **flows** not just functions.  
 - I see pipelines as **products**, not scripts.  
