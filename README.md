@@ -1,11 +1,11 @@
 # ⚡ Lewis Githua 
-## Founder — [Fluxvyn](https://intellicore-data-labs.vercel.app)  
+## Founder — [Fluxvyn Data Lab](https://intellicore-data-labs.vercel.app)  
 *"Turning raw streams into intelligence that powers decisions."*  
 
 ---
 
 ## 🏎️ TL;DR (if you only skim one section)
-- Founder of **** — a premium R&D lab for **data engineering & AI pipelines**.  
+- Founder of **Fluxvyn Data Lab** — a premium R&D lab for **data engineering & AI pipelines**.  
 - Architect behind the **Crypto Intelligence Pipeline** — a production-grade system fusing **market, on-chain, and sentiment data**.  
 - Building at the edge of **real-time data, MLOps, and intelligent automation**.  
 - **Designing scalable, enterprise systems**.
@@ -16,7 +16,7 @@
 
 ## 🪂 About Me
 I’m Lewis — a data engineer and systems builder obsessed with making data *work harder*.  
-Through **Fluxvyn**, I craft pipelines and platforms that don’t just *run* — they **scale, self-heal, and deliver insight**.  
+Through **Fluxvyn Data Lab**, I craft pipelines and platforms that don’t just *run* — they **scale, self-heal, and deliver insight**.  
 
 - I think in **flows** not just functions.  
 - I see pipelines as **products**, not scripts.  
@@ -27,7 +27,7 @@ Through **Fluxvyn**, I craft pipelines and platforms that don’t just *run* —
 ---
 
 ## 🔭 Current Focus
-- **Intellicore Data Lab** → my home for experiments & enterprise-grade builds.  
+- **Fluxvyn Data Lab** → my home for experiments & enterprise-grade builds.  
 - **Insights Hub** → essays on the craft of data engineering & intelligent systems.  
 - **Next frontier**: real-time ML pipelines + automation architectures.  
 
@@ -53,11 +53,11 @@ Through **Fluxvyn**, I craft pipelines and platforms that don’t just *run* —
 🔹 [**Crypto Intelligence Pipeline**](https://github.com/Lewingtonnn/crypto-intelligence)  
 *Streaming architecture that unifies crypto data → built for scale & monitoring.*  
 
-🔹 [**Intellicore Website**](https://github.com/Lewingtonnn/intellicore-website)  
-*The public face of the lab → sleek, premium, interactive (Next.js, Tailwind, Framer Motion).* 
-
 🔹 [**Property Intelligence Pipeline**](https://github.com/Lewingtonnn/Property-Intelligence-Pipeline)  
 *The public face of the lab → sleek, premium, interactive (Next.js, Tailwind, Framer Motion).*  
+
+🔹 [**Fluxvyn Data Lab Website**](https://github.com/Lewingtonnn/intellicore-website)  
+*The public face of the lab → sleek, premium, interactive (Next.js, Tailwind, Framer Motion).* 
 
 
 ---
