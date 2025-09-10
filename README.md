@@ -56,7 +56,7 @@ Through **Fluxvyn Data Lab**, I craft pipelines and platforms that don’t just 
 🔹 [**Property Intelligence Pipeline**](https://github.com/Lewingtonnn/Property-Intelligence-Pipeline)  
 *The public face of the lab → sleek, premium, interactive (Next.js, Tailwind, Framer Motion).*  
 
-🔹 [**Fluxvyn Data Lab Website**](https://github.com/Lewingtonnn/intellicore-website)  
+🔹 [**Fluxvyn Data Lab Website**](https://fluxvyn.com)  
 *The public face of the lab → sleek, premium, interactive (Next.js, Tailwind, Framer Motion).* 
 
 
@@ -64,7 +64,7 @@ Through **Fluxvyn Data Lab**, I craft pipelines and platforms that don’t just 
 
 ## ✍️ Insights
 Beyond code, I share my approach to **data, systems, and engineering craft**:  
-👉 [Read my latest insights](https://intellicore-data-labs.vercel.app/insights)  
+👉 [Read my latest insights](https://fluxvyn.com/insights)  
 
 ---
 
@@ -74,7 +74,7 @@ Beyond code, I share my approach to **data, systems, and engineering craft**:
 ---
 
 ## 🌍 Connect
-### [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewis-githua)  
+# [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/lewis-githua)  
 ### 📧 l3wis.nganga@gmail.com  
 
 ---
