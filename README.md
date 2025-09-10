@@ -1,5 +1,5 @@
 # ⚡ Lewis Githua 
-## Founder — [Fluxvyn Data Lab](https://intellicore-data-labs.vercel.app)  
+## Founder — [Fluxvyn Data Lab](https://fluxvyn.com)  
 *"Turning raw streams into intelligence that powers decisions."*  
 
 ---
