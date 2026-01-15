@@ -5,7 +5,7 @@
 ---
 
 ## 🏎️ TL;DR (if you only skim one section)
-- Founder of **Fluxvyn Data Lab** — a premium R&D lab for **data engineering & AI pipelines**.  
+- Founding engineer of **Fluxvyn Data Lab** — a premium R&D lab for **data engineering & AI pipelines**.  
 - Architect behind the **Crypto Intelligence Pipeline** — a production-grade system fusing **market, on-chain, and sentiment data**.  
 - Building at the edge of **real-time data, MLOps, and intelligent automation**.  
 - **Designing scalable, enterprise systems**.
