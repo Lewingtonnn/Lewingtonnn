@@ -1,5 +1,5 @@
 # ⚡ Lewis Githua 
-## Founder — [Fluxvyn Data Lab](https://fluxvyn.com)  
+## Data Engineer — [Fluxvyn Data Lab](https://fluxvyn.com)  
 *"Turning raw streams into intelligence that powers decisions."*  
 
 ---
@@ -78,4 +78,4 @@ Beyond code, I share my approach to **data, systems, and engineering craft**:
 ### 📧 l3wis.nganga@gmail.com  
 
 ---
-*"A lab, not a résumé. A builder, not a dabbler. Systems that matter."*
+
